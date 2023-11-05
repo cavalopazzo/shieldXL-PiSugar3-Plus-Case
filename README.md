@@ -33,14 +33,14 @@ metal M2.5 screw will likely produce more robust threads than FDM printing.
 
 Also included is the power switch (required) and some knobs (optional). 
 
-Due to the tight tolerances and depending on many variables, the power switch may be too tall or tooo short. The fusion360 file is provided to 
+Due to the tight tolerances and depending on many variables, the power switch may be too tall or too short. The fusion360 file is provided to 
 allow for the quick addition or subtraction of a tenth of a millimeter to the lower, wider section.
 
 There are two knob models, one meant for the right two encoders and one 'lower' one meant for the left encoder which may sit higher than the others.
 
 The case shown here was printed in PLA at a layer height of 0.15mm with a brim. Cura's fuzzy skin option was used to add the texture - thickness of 0.15mm, point distance of 0.4mm.
 
-
+Fusion360 project files have been included for all models.
 
 ## **Assembly**
 
