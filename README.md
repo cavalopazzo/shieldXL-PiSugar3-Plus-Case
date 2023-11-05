@@ -3,7 +3,7 @@
 
 ## **Parts**
 
-(1) Raspberry Pi 3B+ (not tested with 3B nor 4)
+(1) Raspberry Pi 3B+ (not tested with 3B or 4)
 
 [(1) Pisugar3 Plus](https://www.amazon.com/dp/B09MJ876FW?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
