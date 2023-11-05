@@ -31,9 +31,9 @@ Two version of the main case file are included - one meant for heat set inserts 
 For the non-heat set version, the original case file has been altered to have 2.25mm diameter holes instead of printing M2.5 threads. Forming/cutting threads with a 
 metal M2.5 screw will likely produce more robust threads than FDM printing.
 
-Also included is the power switch (required) and some knobs (optional). 
+Also included is the power button (required) and some knobs (optional). 
 
-Due to the tight tolerances and depending on many variables, the power switch may be too tall or too short. The fusion360 file is provided to 
+Due to the tight tolerances and depending on many variables, the power button may be too tall or too short. The fusion360 file is provided to 
 allow for the quick addition or subtraction of a tenth of a millimeter to the lower, wider section.
 
 There are two knob models, one meant for the right two encoders and one 'lower' one meant for the left encoder which may sit higher than the others.
@@ -44,18 +44,18 @@ Fusion360 project files have been included for all models.
 
 ## **Assembly**
 
-### **Check power switch fitment**
+### **Check power button fitment**
 
-It's best to ensure the power switch is the right size before proceding with the full installation.
+It's best to ensure the power button is the right size before proceding with the full installation.
 
 Install the 11mm and 10mm standoffs on the pisugar. The pisugar may arrive with small orange stickers covering the threads. Remove them.
 ![Screenshot 2023-11-05 114402](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/f5c0d302-cf5d-4c71-bd54-20affcdffe9f)
 
-Put the power switch in the case and install the pisugar with battery attached. 
+Put the power button in the case and install the pisugar with battery attached. 
 ![Screenshot 2023-11-05 114913](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/3f356ed7-07be-4574-a15f-3a3c775cad88)
 ![Screenshot 2023-11-05 114350](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/dfb323ac-1f85-4556-b98d-49b20a1c1656)
 
-After installing a few of the mounting screws, check that the power switch functions well.
+After installing a few of the mounting screws, check that the power button functions well.
 ![Screenshot 2023-11-05 114802](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/c5b3ad02-c2a1-4c74-b551-c3168a85b70a)
 
 
@@ -69,15 +69,15 @@ Remove the battery's magnet and attach to the pisugar. The magnet adhesive tape 
 ![Screenshot 2023-11-05 114952](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/cbc7b717-9284-434e-81bb-79ac9534055a)
 ![Screenshot 2023-11-05 114926](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/a8a67907-d201-43f7-a2c1-8d8129455593)
 
-Now for the first tricky part - insert the power switch into the case and while holding the case upright to keep the power switch in place, insert the combo into the case angled as shown 
+Now for the first tricky part - insert the power button into the case and while holding the case upright to keep the power button in place, insert the combo into the case angled as shown 
 with the USB and ethernet ports sticking out.
 ![Screenshot 2023-11-05 114849](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/b14e19d3-6bcd-464f-9bf3-1583e1247ad1)
 
-Next tricky part - bend/pull the power switch side of the case out while pushing down on the pi/pisugar to get the pi's 3.5mm connector into place without jostling things enough to dislodge the power switch.
+Next tricky part - bend/pull the power button side of the case out while pushing down on the pi/pisugar to get the pi's 3.5mm connector into place without jostling things enough to dislodge the power button.
 Make sure the battery wires aren't between the case and the standoff.
 ![Screenshot 2023-11-05 114834](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/fee524b5-631a-423c-add0-0a8280af8b58)
 
-Install a couple of the 6mm mounting screws and check that the power switch is seated well and functions.
+Install a couple of the 6mm mounting screws and check that the power button is seated well and functions.
 ![Screenshot 2023-11-05 114815](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/f3dae8ba-8024-47b1-924d-b21f75280e50)
 ![Screenshot 2023-11-05 114802](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/bc514fee-d1a0-41f8-bb67-5da6612e5e4f)
 
@@ -94,7 +94,7 @@ Slow, steady, and even downward pressure while turning the driver should form go
 Insert the 1/4-inch jacks of the shieldXL board into the case, leaving the rest angled up.
 ![Screenshot 2023-11-05 114714](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/02dad570-c4cf-469e-9f47-887cb6623618)
 
-Now for the final tricky part - bend/pull the power switch side of the case enough to allow the 3.5mm midi in jack to start lowering into place.
+Now for the final tricky part - bend/pull the power button side of the case enough to allow the 3.5mm midi in jack to start lowering into place.
 ![Screenshot 2023-11-05 114701](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/8623bedd-f706-4d5c-a664-fe47a025c1bb)
 ![Screenshot 2023-11-05 114643](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/bc36771c-3c15-4498-b0d2-f7b5639ddefd)
 
@@ -105,7 +105,7 @@ Continue pushing down the shieldXL board while making sure the pi connection hea
 ![Screenshot 2023-11-05 114612](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/257b264a-19be-4661-94e1-bb01242eaf72)
 ![Screenshot 2023-11-05 114557](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/d82cffb8-648d-4900-aff9-64e9a02536bf)
 
-Insert the SD card, power up the pisugar, and make sure that all this bending and pulling hasn't broken anything.
+Insert the SD card, power up the pisugar, and make sure that all this bending and pulling hasn't broken anything. Note that the pisugar powers on with a quick tap of the power button followed by holding it down until the blue led illuminates.
 ![Screenshot 2023-11-05 114542](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/11854856-04f2-44f2-a5af-5d9c2f9e4631)
 ![Screenshot 2023-11-05 114526](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/63f59841-f6a1-44bf-8af8-cdb97bab0b1e)
 
