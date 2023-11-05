@@ -117,7 +117,7 @@ Install the 8mm standoffs and 6mm and 10mm screws.
 Install the four faceplate screws, starting with the 16mm screw in the lower left corner. 
 ![Screenshot 2023-11-05 114441](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/94dccb11-7e92-4346-b09d-9a8e34c6a885)
 
-Install your favorite knobs and appreciate your newly independant shieldXL.
+Install your favorite knobs and appreciate your newly independent and thicc shieldXL.
 ![20231105_111050](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/51faf2be-2120-42da-8257-2d4275409f74)
 
 
