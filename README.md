@@ -55,7 +55,7 @@ Put the power switch in the case and install the pisugar with battery attached.
 ![Screenshot 2023-11-05 114913](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/3f356ed7-07be-4574-a15f-3a3c775cad88)
 ![Screenshot 2023-11-05 114350](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/dfb323ac-1f85-4556-b98d-49b20a1c1656)
 
-After installing a few of the pisugar mounting screws, check that the power switch functions well.
+After installing a few of the mounting screws, check that the power switch functions well.
 ![Screenshot 2023-11-05 114802](https://github.com/cavalopazzo/shieldXL-PiSugar3-Plus-Case/assets/149902852/c5b3ad02-c2a1-4c74-b551-c3168a85b70a)
 
 
